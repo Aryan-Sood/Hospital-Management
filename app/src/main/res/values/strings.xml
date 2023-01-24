@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ProjectExhibition</string>
+    <string name="submit">SUBMIT</string>
+    <string-array name="MAJOR_AREA">
+        <item>CHOOSE INFECTIOUS AREA</item>
+        <item>HEART</item>
+        <item>BRAIN</item>
+        <item>LUNGS</item>
+        <item>NOSE EAR THROAT</item>
+        <item>STOMACH</item>
+        <item>BONE</item>
+        <item>PSYCHIATRIST</item>
+    </string-array>
+
+    <string-array name="DISEASE">
+        <item>CHOOSE DISEASE</item>
+        <item>STROKE</item>
+        <item>TUMER</item>
+        <item>CLOTTING</item>
+        <item>COMMON COLD</item>
+        <item>FRACTURE</item>
+        <item>MENTAL DISORDER</item>
+        <item>PAIN</item>
+        <item>SNEEZING</item>
+    </string-array>
+
+    <string-array name="GENDER">
+        <item>CHOOSE GENDER</item>
+        <item>MALE</item>
+        <item>FEMALE</item>
+        <item>TRANSGENDER</item>
+    </string-array>
+
+    <string-array name="DOCTORS">
+        <item>CHOOSE DOCTOR</item>
+        <item>DR RAM</item>
+        <item>DR VIBHOR</item>
+        <item>DR MANISH</item>
+        <item>DR RAMESH</item>
+    </string-array>
+</resources>
